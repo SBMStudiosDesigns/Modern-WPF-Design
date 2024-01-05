@@ -21,3 +21,5 @@ C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\MVVM\View\HomeView.baml
 C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\MVVM\View\DiscoveryView.g.cs
 C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\MVVM\View\FeaturedView.g.cs
+C:\Users\tahne\source\repos\ModernWPFDesign\obj\Debug\MVVM\View\FeaturedView.baml

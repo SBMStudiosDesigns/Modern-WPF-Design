@@ -20,6 +20,10 @@
                 <view:DiscoveryView/>
             </DataTemplate>
 
+            <DataTemplate DataType="{x:Type viewModel:FeaturedViewModel}">
+                <view:FeaturedView/>
+            </DataTemplate>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>
